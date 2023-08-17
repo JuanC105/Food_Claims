@@ -26,3 +26,5 @@ Accompanied my analysis with a visually engaging representation of the distribut
 ### 4. Time-to-Close vs. Location Relationship:
 Explored the intricate relationship between claims closure time and distinct locations.
 Presented my findings through a visualization that captured this dynamic relationship.
+
+*Disclaimer: The content presented here is fictional and created for the purpose of demonstrating the project's context and tasks as carried out by a single individual.*
